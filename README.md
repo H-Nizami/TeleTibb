@@ -1,2 +1,2 @@
 # TeleTibb
-A Blood Pressure measuring App
+A Blood Pressure Measuring App
